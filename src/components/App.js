@@ -7,6 +7,7 @@ import Directors from "./Directors";
 import Movies from "./Movies";
 
 function App() {
+   let x = 2
   return <div>{/*{code here}*/}</div>;
 }
 
